@@ -106,3 +106,4 @@ Tested in Following Versions:
 * Seeing attendance or editing requires an master face print which can be set earlier so students cant change their records.
 * Multiple times and mutiple faces is taken in consideration
 * Future Scope: Setting in and out timing as well so as to create a proxy payroll system as well.
+Machine Learning model - Deep Learning
