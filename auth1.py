@@ -5,6 +5,7 @@ from PIL import ImageTk,Image
 import cv2
 from quit import release
 
+
 def quit(*args):
     root.destroy()
 
